@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Widget.Material.CompoundButton.Switch" parent="android:Widget.CompoundButton">
+        <item name="track">@drawable/switch_track_mtrl_alpha</item>
+        <item name="thumb">@drawable/switch_inner</item>
+        <item name="switchMinWidth">48dp</item>
+        <item name="switchPadding">16dp</item>
+        <item name="thumbWidth">28dp</item>
+        <item name="thumbAnimateOffset">4dp</item>
+    </style>
+
+</resources>
