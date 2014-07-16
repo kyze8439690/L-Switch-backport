@@ -7,3 +7,5 @@ A backport of the Android L Switch widget, based on https://github.com/BoD/andro
 1. Thumb animation  
 2. Custom color  
 3. SwitchPreference
+
+[![ScreenShot](http://i1.ytimg.com/vi/aksWmN35Ne8/mqdefault.jpg)](http://youtu.be/aksWmN35Ne8)
